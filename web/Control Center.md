@@ -23,19 +23,16 @@ accessed only from `127.0.0.1` or `localhost`
 so `X-Forwarded-For` header will be the solution here**
 
 ## Steps:
-- Start & Configure `BurpSuite` https://youtu.be/YCCrVtvAu2I
 - Intercept the HTTP Request
 
 ![image](https://user-images.githubusercontent.com/33517160/115741072-16ee3b00-a398-11eb-8f22-d2c29946d703.png)
 
-- `CTRL + R` or Right Mouse Click than send to repeater
+- (`CTRL + R`) send to repeater
 - add `X-Forwarded-For: 127.0.0.1` to the HTTP Request Header
 
 the Request should look like this:
 
 ![image](https://user-images.githubusercontent.com/33517160/115741605-94b24680-a398-11eb-9cb1-4f03b1a62232.png)
-
-- send the request
 
 ![image](https://user-images.githubusercontent.com/33517160/115741876-cfb47a00-a398-11eb-8c0c-6a1fec44c23d.png)
 
