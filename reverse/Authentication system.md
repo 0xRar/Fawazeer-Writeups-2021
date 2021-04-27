@@ -22,7 +22,7 @@ _peasy_
 lemof
 squeezy
 ```
-flag{easy_peasy_lemon_squeezy}
+**`flag{easy_peasy_lemon_squeezy}`**
 
 and thats the reason why i didint find it using `strings`
 because it doesn't look like a flag
