@@ -26,4 +26,3 @@ from `john`
 `password: secret`
 
 we know the password so we can get the jpeg now
-
