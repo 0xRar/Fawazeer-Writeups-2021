@@ -15,6 +15,7 @@ So we have an encrypted zip file with jpeg inside it well there is 1 think we ca
 which is using `john the ripper` to crack the zip file's password we are going to use 2 tools
 from `john`
 
+
 `zip2john`: zip2john will dump the password hash:
 - `zip2john luqaimat.zip > hash.txt`
 
