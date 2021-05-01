@@ -15,3 +15,7 @@ https://fawazeer.net/files/ascii.pcapng
 Video writeup by: [Z0ldyck](https://twitter.com/electronicbots) 
 
 [Video Link(Arabic)](https://www.youtube.com/watch?v=rDzUZylQyGs&t=242s)
+
+![image](https://user-images.githubusercontent.com/33517160/116786749-0da45300-aaa9-11eb-9a01-b4c5aa4ed24a.png)
+
+Flag: **`flag{some_secrets_in_ascii_will_blow_your_mind}`**
