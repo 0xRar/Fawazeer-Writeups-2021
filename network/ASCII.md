@@ -14,4 +14,4 @@ https://fawazeer.net/files/ascii.pcapng
 ## Solution: 
 Video writeup by: [Z0ldyck](https://twitter.com/electronicbots) 
 
-[Video Link](https://www.youtube.com/watch?v=rDzUZylQyGs&t=242s)
+[Video Link(Ar)](https://www.youtube.com/watch?v=rDzUZylQyGs&t=242s)
