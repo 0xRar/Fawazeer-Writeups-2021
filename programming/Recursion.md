@@ -10,6 +10,7 @@ recursion recursion recursion recursion ...
 
 
 ## Solution: 
+i'm not really a scripter so i passed the challenge to my teamate [codaholikid](https://twitter.com/codaholikid)
 
 script By [codaholikid](https://twitter.com/codaholikid):
 ```
