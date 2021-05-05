@@ -10,7 +10,7 @@ And can you check if it's a regular photo or not?
 
 https://fawazeer.net/files/luqaimat.zip
 
-## Solution: 
+## Solution(UNCOMPLETE): 
 So we have an encrypted zip file with jpeg inside it well there is 1 think we can think of here
 which is using `john the ripper` to crack the zip file's password we are going to use 2 tools
 from `john`
@@ -27,3 +27,6 @@ from `john`
 `password: secret`
 
 we know the password so we can get the jpeg now
+
+and i couldn't solve it because of the jpeg i tried alot of tools to see if i
+can catch something but no :( 
